@@ -1,0 +1,40 @@
+.conteiner {
+	max-width: 800px;
+	height: 600px;
+	background-color: #B4CAE2;
+	margin:10px auto;
+	font-size: 24px;
+}
+p {
+	padding: 20px;
+
+}
+
+.center-el {
+	width: 100%;
+	margin:0 auto;
+	text-align: center;
+}
+button {
+	width: 80%;
+	height: 40px;
+}
+.clear {
+	width: 80%;
+	height: 30px;
+	margin:10px auto;
+	background-color:#ED6B6B;
+	text-align: center;
+	border:1px solid #E49999;
+}
+
+.clear:hover {
+	background-color:#FA5050;
+	border:1px solid blue;
+}
+
+.warning-img {
+	width: 100%;
+	height: 50px;
+	text-align: center;
+}
